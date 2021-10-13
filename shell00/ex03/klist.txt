@@ -1,0 +1,5 @@
+Credentials cache: API:AB86CABC-2EA7-456F-A34B-DBCBFDF64224
+        Principal: sgerace@42ROMA.IT
+
+  Issued                Expires             Flags    Principal
+Sep 30 10:27:56 2021  Sep 30 20:27:56 2021  FPIA   krbtgt/42ROMA.IT@42ROMA.IT
